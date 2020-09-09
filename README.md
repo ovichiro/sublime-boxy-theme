@@ -1,7 +1,7 @@
-# Content of Boxy Theme.sublime-package v5.2.0 for Sublime Text
+## Content of Boxy Theme.sublime-package v5.2.0 for Sublime Text
 
-The original author removed Boxy Theme from Sublime packagecontrol and GitHub.
-The theme used to be hosted at https://github.com/ihodev/sublime-boxy
+The original author removed Boxy Theme from Sublime packagecontrol.io and GitHub.  
+The theme used to be hosted at https://github.com/ihodev/sublime-boxy  
 
 ---
 
